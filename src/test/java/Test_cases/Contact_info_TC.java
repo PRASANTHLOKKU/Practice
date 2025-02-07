@@ -19,6 +19,6 @@ public class Contact_info_TC extends Base_TestNG{
 		contact_info.getCity("DEF city");
 		contact_info.getState("Andhra Pradesh");
 		contact_info.getPostal_code("523357");
-		contact_info.getCountry("India");
+		contact_info.getCountry("Germany");
 	}
 }

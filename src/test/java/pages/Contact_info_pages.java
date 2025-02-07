@@ -100,6 +100,8 @@ public class Contact_info_pages {
 				c.click();
 				country_found = true;
 				break;
+			}else {
+				System.out.println("Country not found");
 			}
 		}
 		

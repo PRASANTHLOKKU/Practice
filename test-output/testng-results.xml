@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-27T18:16:26 IST" name="Suite" finished-at="2025-01-27T18:16:39 IST" duration-ms="13182">
+    <groups>
+    </groups>
+    <test started-at="2025-01-27T18:16:26 IST" name="Test" finished-at="2025-01-27T18:16:39 IST" duration-ms="13182">
+      <class name="Test_cases.Flight_info_TC">
+        <test-method signature="Flight_TC()[pri:0, instance:Test_cases.Flight_info_TC@5ddeb7cb]" started-at="2025-01-27T18:16:36 IST" name="Flight_TC" finished-at="2025-01-27T18:16:37 IST" duration-ms="1474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flight_TC -->
+      </class> <!-- Test_cases.Flight_info_TC -->
+      <class name="Test_cases.Preference_info_TC">
+        <test-method signature="Preference_TC()[pri:0, instance:Test_cases.Preference_info_TC@70ed52de]" started-at="2025-01-27T18:16:37 IST" name="Preference_TC" finished-at="2025-01-27T18:16:39 IST" duration-ms="1292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Preference_TC -->
+      </class> <!-- Test_cases.Preference_info_TC -->
+      <class name="Test_cases.Contact_info_TC">
+        <test-method is-config="true" signature="Test_Prac()[pri:0, instance:Test_cases.Contact_info_TC@221a3fa4]" started-at="2025-01-27T18:16:15 IST" name="Test_Prac" finished-at="2025-01-27T18:16:26 IST" duration-ms="10725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Prac -->
+        <test-method signature="Contact_Info()[pri:0, instance:Test_cases.Contact_info_TC@221a3fa4]" started-at="2025-01-27T18:16:26 IST" name="Contact_Info" finished-at="2025-01-27T18:16:32 IST" duration-ms="5771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Contact_Info -->
+        <test-method is-config="true" signature="Tear_Down()[pri:0, instance:Test_cases.Contact_info_TC@221a3fa4]" started-at="2025-01-27T18:16:39 IST" name="Tear_Down" finished-at="2025-01-27T18:16:39 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tear_Down -->
+      </class> <!-- Test_cases.Contact_info_TC -->
+      <class name="Test_cases.Sign_in_TC">
+        <test-method signature="Sign_in_test()[pri:0, instance:Test_cases.Sign_in_TC@24569dba]" started-at="2025-01-27T18:16:32 IST" name="Sign_in_test" finished-at="2025-01-27T18:16:36 IST" duration-ms="4313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sign_in_test -->
+      </class> <!-- Test_cases.Sign_in_TC -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
